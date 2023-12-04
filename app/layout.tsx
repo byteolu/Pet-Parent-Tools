@@ -24,14 +24,15 @@ export default function RootLayout({
     <ClerkProvider>
     <html lang="en">
       <body className={inter.className}>
-        <ChakraProvider>
+    <ChakraProvider>
           <NavBar />
         {children}
         <Footer />
-        </ChakraProvider>
         <Toaster />
+        </ChakraProvider>
         </body>
     </html>
-  </ClerkProvider>
+    </ClerkProvider>
+  
   )
 }
