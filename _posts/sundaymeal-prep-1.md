@@ -1,7 +1,7 @@
 ---
 title: "Sunday Meal Prep - Wild Turkey"
 excerpt: "Do you want to make sure your dog has the best homemade dog food ? Click to see your pups new meal. "
-coverImage: "/img/Fredo_3.png"
+coverImage: "/img/fredo_3.png"
 date: "2024-01-06T20:48:07.322Z"
 author: "Pet Parent"
 ---
