@@ -63,11 +63,10 @@ export default function HeroSectionSplit() {
       </Flex>
       <Flex flex={1}>
         <Image
-          alt={'Login Image'}
+          alt={'Dog Owners Club'}
           objectFit={'cover'}
           src={
-            '/img/dog-w-owners.png'
-          }
+            '/img/dog_group.jpg'           }
         />
       </Flex>
     </Stack>

@@ -8,7 +8,7 @@ export default function PetParentToolComp() {
       w={'full'}
       h={'100vh'}
       backgroundImage={
-        'url(/img/kitchen-dogfood.png)'
+        'url(/img/fredo_5.png)'
       }
       backgroundSize={'cover'}
       backgroundPosition={'center center'}>

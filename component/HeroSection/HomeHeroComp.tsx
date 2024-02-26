@@ -8,7 +8,7 @@ export default function HomeHeroSectionWithImg() {
       w={'full'}
       h={'100vh'}
       backgroundImage={
-        'url(/img/pet-home-life.png)'
+        'url(/img/dog_owner_3.png)'
       }
       backgroundSize={'cover'}
       backgroundPosition={'center center'}>
